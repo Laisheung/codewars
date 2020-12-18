@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "test": "npx jest"
+    },
+    "dependencies": {
+        "ts-jest": "^26.4.4",
+        "typescript": "^4.1.2"
+    }
+}
